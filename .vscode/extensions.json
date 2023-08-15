@@ -1,5 +1,6 @@
 {
     "recommendations": [
-        "sidthesloth.html5-boilerplate"
+        "sidthesloth.html5-boilerplate",
+        "ms-vscode-remote.remote-ssh-edit"
     ]
 }
