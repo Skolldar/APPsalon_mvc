@@ -1,5 +1,5 @@
 # APPsalon_mvc
-Appsalon deployment project **PHP MVC** is a simple web page in *Spanish* designed for a **Jr.Developer**, focused on salon services, allowing administrators or users to easily create new services or schedule an appointment.
+Deployment project **PHP MVC** is a simple web page in *Spanish* designed for a **Jr.Developer**, focused on salon services, allowing administrators or users to easily create new services or schedule an appointment.
 
 [![appsalon.png](https://i.postimg.cc/0QXkRGJg/appsalon.png)](https://postimg.cc/wyJ8DmVF)
 
